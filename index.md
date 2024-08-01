@@ -1,9 +1,17 @@
 ---
 title: Home
 layout: home
-nav_order: 4
+nav_order: 4.5
 ---
 
+# Earth and Space Science Committee recognized resource page 
+<br>
+
+## Welcome
+This is a draft site of what our independently run resource site could look like 
+
+- Kristi still testing different github page formats but I may switch to a r/quarto based
+- Jekyll and Ruby are having a gem disagreement and I can't figure it out
 
 
 
