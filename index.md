@@ -4,14 +4,25 @@ layout: home
 nav_order: 4.5
 ---
 
-# Earth and Space Science Committee recognized resource page 
+# Earth and Space Science Committee's Trial Resource Center 
 <br>
 
 ## Welcome
-This is a draft site of what our independently run resource site could look like 
+This is a draft site of what our committee's independently run resource site could look like 
 
 - Kristi still testing different github page formats but I may switch to a r/quarto based
-- Jekyll and Ruby are having a gem disagreement and I can't figure it out
+- Jekyll and Ruby are having a gem disagreement so ^
+- The left hand menu will have parent-child pages for events (instead of the template stuff)
+
+## 2024 Event table 
+
+| Division B | Division C |
+| ---------- | ---------- |
+|Road Scholar|Geologic Mapping|
+|Meteorology|Remote Sensing|
+|Dynamic Planet|Dynamic Planet|
+|Fossils|Fossils|
+
 
 
 
